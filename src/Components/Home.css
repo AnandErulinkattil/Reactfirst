@@ -1,0 +1,15 @@
+.head1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding-bottom: 150px;
+
+}
+.header1{
+    padding-top: 150px;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
